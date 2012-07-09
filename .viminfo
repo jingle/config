@@ -1,0 +1,1348 @@
+# 这个 viminfo 文件是由 Vim 7.3 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~Msle0~/\<VDO_part_without_intro_uniq\.utf8\>
+
+# 上个 替换 Search 图案：
+~MSle0&mobile
+
+# 最后替换的字符串
+$wise
+
+# 命令行 历史记录 (从新到旧)：
+:q
+:wq
+:q!
+:w
+:0
+:e trac
+:vsp
+:%s/mobile/wise/g
+:'<,'>
+:sh
+:e
+:e relation.py
+:sp
+:wh
+:e remove_xml_node.py
+:332087
+:W
+:e test.txt
+:e test.py
+:887
+
+# 查找字符串 历史记录 (从新到旧)：
+? \<VDO_part_without_intro_uniq\.utf8\>
+? mobile
+? \<item\>
+? \<relation\>
+?/file
+?/file-max
+?/fs\.file
+?/fs.file
+??xml version="1.0"?>
+?/<edge
+?/edge
+? \<graph\>
+? \<graphml\>
+?/n-9
+? \<avp_data_for_mobile\>
+? \<newvdo\>
+?/compo
+?/account
+?/base_url
+? \<parent_format\>
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+@y
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	LINE	0
+	sockaddr = '/tmp/trac-fastcgi.sock'
+""1	BLOCK	0
+	 
+	 
+	 
+"2	BLOCK	0
+	#
+	#
+	#
+	#
+	#
+"3	LINE	0
+	
+"4	CHAR	0
+	f={'a':1,'b':2}
+	for i in f:
+	    print i,f[i]
+	print f    
+"5	CHAR	0
+	        else:
+	            break
+	
+"6	LINE	0
+	            pass
+"7	BLOCK	0
+	#
+	#
+	#
+	#
+	#
+	#
+"8	LINE	0
+	
+"9	LINE	0
+	for i in range(0,1):
+"e	CHAR	0
+	e
+"-	CHAR	0
+	'/tmp/trac-fastcgi.sock'
+
+# 文件标记:
+'Z  4  0  ~/redis/src/[BufExplorer]
+'0  13  0  /etc/redmine/default/session.yml
+'1  8  0  /etc/redmine/default/database.yml
+'2  1  0  /etc/redmine/default/database.yml
+'3  62  13  /etc/apache2/sites-available/default
+'4  4  30  /etc/apache2/mods-available/passenger.conf
+'5  10  11  /etc/apache2/mods-available/passenger.conf
+'6  5  0  /var/www/trac/trac.wsgi
+'7  10  45  /var/www/trac/trac.fcgi
+'8  1  0  /var/www/trac/trac.fcgi
+'9  60  4  /etc/nginx/sites-available/default
+
+# 跳转列表 (从新到旧):
+-'  13  0  /etc/redmine/default/session.yml
+-'  1  0  /etc/redmine/default/session.yml
+-'  8  0  /etc/redmine/default/database.yml
+-'  1  0  /etc/redmine/default/database.yml
+-'  62  13  /etc/apache2/sites-available/default
+-'  56  0  /etc/apache2/sites-available/default
+-'  46  46  /etc/apache2/sites-available/default
+-'  4  30  /etc/apache2/mods-available/passenger.conf
+-'  1  0  /etc/apache2/mods-available/passenger.conf
+-'  10  11  /etc/apache2/mods-available/passenger.conf
+-'  5  0  /var/www/trac/trac.wsgi
+-'  1  0  /var/www/trac/trac.wsgi
+-'  10  45  /var/www/trac/trac.fcgi
+-'  1  0  /var/www/trac/trac.fcgi
+-'  60  4  /etc/nginx/sites-available/default
+-'  137  0  /etc/nginx/sites-available/default
+-'  5  1  /etc/nginx/sites-available/trac
+-'  2  0  /etc/nginx/sites-available/trac
+-'  1  0  /etc/nginx/sites-available/default
+-'  59  0  ~/avp/avp_data_for_mobile/remove_xml_node.py
+-'  52  55  ~/avp/avp_data_for_mobile/remove_xml_node.py
+-'  6812897  0  ~/avp/avp_data_for_mobile/g.graphml
+-'  44  0  ~/avp/avp_data_for_mobile/g.graphml
+-'  1  0  ~/avp/avp_data_for_mobile/g.graphml
+-'  4  75  ~/avp/avp_data_for_mobile/avp.R
+-'  3  49  ~/avp/avp_data_for_mobile/avp.R
+-'  2  46  ~/avp/avp_data_for_mobile/avp.R
+-'  34  53  ~/avp/avp_data_for_wise/relation.py
+-'  24  29  ~/avp/avp_data_for_wise/relation.py
+-'  7  49  ~/avp/avp_data_for_wise/test.py
+-'  10  15  ~/avp/avp_data_for_wise/test.py
+-'  28  10  ~/avp/avp_data_for_wise/relation.py
+-'  19  46  ~/avp/avp_data_for_wise/relation.py
+-'  8  0  ~/avp/avp_data_for_wise/test.py
+-'  5  10  ~/avp/avp_data_for_wise/relation.py
+-'  1  0  ~/avp/avp_data_for_wise/relation.py
+-'  1  0  ~/avp/avp_data_for_wise/test.py
+-'  17  31  ~/avp/avp_data_for_mobile/vdo_graph.py
+-'  26  0  ~/avp/avp_data_for_mobile/vdo_graph.py
+-'  102  0  ~/.bashrc
+-'  30  0  ~/.bashrc
+-'  99  0  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  17  0  ~/neo4j/neo4j-community-1.7.1/conf/neo4j-server.properties
+-'  71  0  ~/neo4j/neo4j-community-1.7.1/conf/neo4j-server.properties
+-'  1  0  ~/neo4j/neo4j-community-1.7.1/conf/neo4j.properties
+-'  1  0  ~/neo4j/neo4j-community-1.7.1/conf/README.txt
+-'  1  0  ~/neo4j/neo4j-community-1.7.1/conf/neo4j-server.properties
+-'  45  0  /etc/security/limits.conf
+-'  31  35  /etc/security/limits.conf
+-'  56  0  /etc/security/limits.conf
+-'  60  0  /etc/sysctl.conf
+-'  2  35  /etc/sysctl.conf
+-'  1  0  /etc/sysctl.conf
+-'  1  0  /etc/security/limits.conf
+-'  63  0  ~/neo4j/neo4j-community-1.7.1/README.txt
+-'  1  0  ~/neo4j/neo4j-community-1.7.1/README.txt
+-'  28  14  ~/avp/avp_data_for_mobile/remove_xml_node.py
+-'  26  5  ~/avp/avp_data_for_mobile/remove_xml_node.py
+-'  16  0  ~/avp/avp_data_for_mobile/remove_xml_node.py
+-'  1  0  ~/avp/avp_data_for_mobile/test.py
+-'  8  16  ~/avp/avp_data_for_mobile/test.py
+-'  4  19  ~/input.xml
+-'  8  53  ~/input.xml
+-'  13  55  ~/input.xml
+-'  1  0  ~/input.xml
+-'  6  0  ~/avp/avp_data_for_mobile/input.xml
+-'  1  0  ~/avp/avp_data_for_mobile/input.xml
+-'  189025  4  ~/avp/avp_data_for_mobile/output
+-'  84259  277  ~/avp/avp_data_for_mobile/output
+-'  83718  80  ~/avp/avp_data_for_mobile/output
+-'  82648  1058  ~/avp/avp_data_for_mobile/output
+-'  82647  1069  ~/avp/avp_data_for_mobile/output
+-'  82628  46  ~/avp/avp_data_for_mobile/output
+-'  82584  396  ~/avp/avp_data_for_mobile/output
+-'  82516  1259  ~/avp/avp_data_for_mobile/output
+-'  62744  355  ~/avp/avp_data_for_mobile/output
+-'  7  3  ~/avp/avp_data_for_mobile/output
+-'  332625  4  ~/avp/avp_data_for_mobile/output
+-'  6  6  ~/avp/avp_data_for_mobile/output
+-'  2  1  ~/avp/avp_data_for_mobile/output
+-'  1  0  ~/avp/avp_data_for_mobile/output
+-'  189047  10  ~/avp/avp_data_for_mobile/g.graphml.test
+-'  189036  31  ~/avp/avp_data_for_mobile/g.graphml.test
+-'  189024  31  ~/avp/avp_data_for_mobile/g.graphml.test
+-'  189012  31  ~/avp/avp_data_for_mobile/g.graphml.test
+-'  189000  31  ~/avp/avp_data_for_mobile/g.graphml.test
+-'  12  0  ~/avp/avp_data_for_mobile/g.graphml.test
+-'  1  0  ~/avp/avp_data_for_mobile/g.graphml.test
+-'  332087  4  ~/avp/avp_data_for_mobile/part_g.graphml
+-'  9  3  ~/avp/avp_data_for_mobile/part_g.graphml
+-'  1  0  ~/avp/avp_data_for_mobile/part_g.graphml
+-'  1  0  ~/avp/avp_data_for_mobile/avp.R
+-'  6  15  ~/avp/avp_data_for_mobile/test.py
+-'  7  14  ~/avp/avp_data_for_mobile/test.py
+-'  1  0  ~/avp/avp_data_for_mobile/test.p
+-'  25  0  ~/avp/avp_data_for_mobile/vdo_graph.py
+-'  484  0  ~/.matplotlib/fontList.cache
+-'  1  0  ~/.matplotlib/fontList.cache
+
+# 文件内的标记历史记录 (从新到旧):
+
+> /etc/redmine/default/session.yml
+	"	13	0
+
+> /etc/redmine/default/database.yml
+	"	8	0
+
+> /etc/apache2/sites-available/default
+	"	62	13
+	^	61	16
+	.	61	4
+	+	1	18
+	+	48	43
+	+	41	34
+	+	42	29
+	+	42	29
+	+	43	42
+	+	44	50
+	+	45	48
+	+	46	52
+	+	47	24
+	+	49	4
+	+	45	55
+	+	46	41
+	+	41	23
+	+	50	4
+	+	56	8
+	+	51	3
+	+	52	7
+	+	53	3
+	+	54	7
+	+	56	4
+	+	54	41
+	+	41	27
+	+	46	46
+	+	56	4
+	+	56	20
+	+	61	4
+
+> /etc/apache2/mods-available/passenger.conf
+	"	4	30
+	^	4	31
+	.	4	2
+	+	10	0
+	+	4	2
+
+> /var/www/trac/trac.wsgi
+	"	5	0
+	^	7	45
+	.	5	0
+	+	7	1
+	+	5	0
+
+> /var/www/trac/trac.fcgi
+	"	10	45
+	^	10	46
+	.	10	45
+	+	7	9
+	+	6	0
+	+	5	0
+	+	3	0
+	+	6	28
+	+	10	45
+
+> /etc/nginx/sites-available/default
+	"	60	4
+	^	60	5
+	.	60	4
+	+	61	0
+	+	45	20
+	+	49	9
+	+	55	35
+	+	54	42
+	+	60	4
+
+> /etc/nginx/sites-available/trac
+	"	5	1
+	.	2	1
+	+	1	0
+	+	2	1
+
+> ~/avp/avp_data_for_mobile/remove_xml_node.py
+	"	59	0
+	^	52	56
+	.	52	55
+	+	1	0
+	+	3	39
+	+	3	25
+	+	3	0
+	+	3	48
+	+	10	0
+	+	5	39
+	+	7	11
+	+	8	59
+	+	3	0
+	+	4	0
+	+	20	0
+	+	13	35
+	+	13	35
+	+	14	29
+	+	15	28
+	+	16	45
+	+	16	45
+	+	16	16
+	+	17	50
+	+	17	50
+	+	17	20
+	+	17	22
+	+	17	0
+	+	17	0
+	+	13	41
+	+	15	75
+	+	16	16
+	+	16	8
+	+	19	0
+	+	17	0
+	+	17	0
+	+	3	27
+	+	12	0
+	+	3	0
+	+	7	22
+	+	8	0
+	+	7	0
+	+	8	42
+	+	5	19
+	+	6	10
+	+	8	45
+	+	9	0
+	+	4	0
+	+	24	41
+	+	26	37
+	+	24	40
+	+	25	9
+	+	26	0
+	+	23	0
+	+	10	0
+	+	27	0
+	+	28	24
+	+	45	35
+	+	46	21
+	+	28	24
+	+	44	0
+	+	50	43
+	+	51	39
+	+	59	0
+	+	51	0
+	+	52	56
+	+	54	0
+	+	51	0
+	+	49	0
+	+	47	70
+	+	47	6
+	+	47	0
+	+	48	0
+	+	55	31
+	+	56	8
+	+	57	43
+	+	54	0
+	+	52	56
+	+	53	27
+	+	52	55
+
+> ~/avp/avp_data_for_mobile/g.graphml
+	"	6812897	0
+
+> ~/avp/avp_data_for_mobile/avp.R
+	"	4	75
+	^	4	76
+	.	4	75
+	+	2	79
+	+	3	53
+	+	4	59
+	+	2	0
+	+	3	70
+	+	4	75
+
+> ~/avp/avp_data_for_wise/relation.py
+	"	34	53
+	^	34	54
+	.	34	53
+	+	1	0
+	+	5	37
+	+	12	25
+	+	9	17
+	+	19	46
+	+	22	18
+	+	13	27
+	+	6	0
+	+	7	0
+	+	8	0
+	+	5	3
+	+	6	3
+	+	8	0
+	+	7	3
+	+	8	2
+	+	7	3
+	+	8	3
+	+	10	18
+	+	12	0
+	+	11	19
+	+	10	19
+	+	4	3
+	+	23	33
+	+	6	31
+	+	7	31
+	+	8	28
+	+	29	22
+	+	19	13
+	+	28	41
+	+	29	24
+	+	19	49
+	+	28	36
+	+	30	36
+	+	7	0
+	+	19	41
+	+	28	29
+	+	29	37
+	+	30	21
+	+	11	0
+	+	10	0
+	+	11	17
+	+	23	36
+	+	22	0
+	+	6	0
+	+	11	0
+	+	10	0
+	+	21	22
+	+	30	13
+	+	30	15
+	+	21	20
+	+	25	0
+	+	19	13
+	+	18	79
+	+	18	81
+	+	20	0
+	+	22	0
+	+	21	0
+	+	22	0
+	+	16	21
+	+	16	0
+	+	15	28
+	+	16	0
+	+	23	0
+	+	24	29
+	+	25	16
+	+	26	26
+	+	28	11
+	+	29	17
+	+	30	37
+	+	33	53
+	+	24	26
+	+	33	29
+	+	33	17
+	+	32	16
+	+	35	0
+	+	27	10
+	+	31	18
+	+	33	13
+	+	34	0
+	+	33	14
+	+	24	29
+	+	30	53
+	+	34	53
+
+> ~/avp/avp_data_for_wise/test.py
+	"	7	49
+	^	7	50
+	.	7	49
+	+	8	15
+	+	5	0
+	+	6	28
+	+	10	11
+	+	10	6
+	+	10	15
+	+	10	0
+	+	4	0
+	+	8	0
+	+	7	4
+	+	4	24
+	+	7	49
+
+> ~/avp/avp_data_for_wise/VDO_part.utf8
+	"	2	22
+
+> ~/avp/avp_data_for_wise/__Tag_List__
+	"	3	0
+	.	5	0
+	+	5	0
+
+> ~/avp/avp_data_for_wise/[File List]
+	"	5	0
+	.	3	0
+	+	14	0
+	+	3	0
+	t	5	0
+
+> /usr/share/vim/vim73/doc/help.txt
+	"	2	0
+
+> ~/avp/avp_data_for_wise/exit
+	"	1	0
+
+> ~/avp/avp_data_for_mobile/vdo_graph.py
+	"	17	31
+	^	17	9
+	.	26	0
+	+	1	24
+	+	11	66
+	+	5	0
+	+	11	60
+	+	11	60
+	+	16	45
+	+	20	27
+	+	27	18
+	+	4	30
+	+	27	40
+	+	1	17
+	+	16	12
+	+	18	0
+	+	12	4
+	+	16	11
+	+	16	0
+	+	16	12
+	+	18	0
+	+	13	0
+	+	18	0
+	+	14	13
+	+	16	27
+	+	15	7
+	+	18	0
+	+	24	12
+	+	22	16
+	+	26	12
+	+	25	13
+	+	27	17
+	+	27	0
+	+	30	15
+	+	29	42
+	+	30	7
+	+	1	16
+	+	30	21
+	+	10	19
+	+	7	31
+	+	5	10
+	+	6	10
+	+	30	0
+	+	27	0
+	+	8	0
+	+	7	0
+	+	8	26
+	+	17	0
+	+	16	8
+	+	17	19
+	+	2	15
+	+	12	0
+	+	22	0
+	+	26	0
+	+	2	17
+	+	7	0
+	+	8	0
+	+	12	0
+	+	16	8
+	+	17	8
+	+	22	0
+	+	25	0
+	+	26	0
+
+> ~/.bashrc
+	"	102	0
+	^	102	58
+	.	102	57
+	+	101	54
+	+	102	57
+
+> ~/neo4j/neo4j-community-1.7.1/conf/neo4j-server.properties
+	"	17	0
+	.	17	0
+	+	17	0
+
+> ~/neo4j/neo4j-community-1.7.1/conf/neo4j.properties
+	"	1	0
+
+> ~/neo4j/neo4j-community-1.7.1/conf/README.txt
+	"	1	0
+
+> /etc/security/limits.conf
+	"	45	0
+
+> /etc/sysctl.conf
+	"	60	0
+
+> ~/neo4j/neo4j-community-1.7.1/README.txt
+	"	63	0
+
+> ~/avp/avp_data_for_mobile/test.py
+	"	1	0
+	^	7	5
+	.	8	16
+	+	1	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	5	14
+	+	6	42
+	+	7	32
+	+	4	17
+	+	6	15
+	+	8	0
+	+	7	4
+	+	8	16
+
+> ~/input.xml
+	"	4	19
+	^	4	20
+	.	4	19
+	+	1	50
+	+	1	7
+	+	1	43
+	+	1	21
+	+	13	55
+	+	4	31
+	+	8	53
+	+	4	19
+
+> ~/avp/avp_data_for_mobile/input.xml
+	"	6	0
+	^	6	0
+	.	6	0
+	+	8	0
+	+	1	9
+	+	3	57
+	+	4	41
+	+	4	52
+	+	5	19
+	+	5	19
+	+	5	11
+	+	6	0
+
+> ~/avp/avp_data_for_mobile/output
+	"	189025	4
+
+> ~/avp/avp_data_for_mobile/g.graphml.test
+	"	189047	10
+
+> ~/avp/avp_data_for_mobile/part_g.graphml
+	"	332087	4
+
+> ~/avp/avp_data_for_mobile/test.p
+	"	1	0
+
+> ~/.matplotlib/fontList.cache
+	"	484	0
+
+> ~/avp/avp_data_for_mobile/test.txt
+	"	1	0
+
+> /usr/lib/pymodules/python2.7/networkx/drawing/nx_pylab.py
+	"	885	4
+
+> ~/goagent/server/uploader.bat
+	"	27	0
+
+> ~/goagent/local/proxy.ini
+	"	78	0
+	^	8	25
+	.	8	24
+	+	8	24
+
+> ~/avp/avp_data_for_mobile/README
+	"	1	0
+
+> ~/.vimrc
+	"	28	0
+	.	28	0
+	+	28	0
+	+	27	0
+	+	28	15
+	+	27	0
+	+	28	0
+
+> ~/avp/avp_data_for_mobile/VDO
+	"	1	0
+
+> ~/zhunru.sh
+	"	4	23
+	^	4	24
+	.	4	23
+	+	4	23
+
+> ~/depot_tools/repo
+	"	229	0
+	^	123	15
+	.	123	0
+	+	123	0
+
+> /etc/fstab
+	"	12	0
+	^	12	77
+	.	12	76
+	+	12	76
+
+> ~/testReferenceStringParam.cpp
+	"	1	0
+
+> /etc/lightdm/lightdm.conf
+	"	3	0
+	.	3	0
+	+	3	0
+
+> ~/web/trac/disp/conf/trac.ini
+	"	110	0
+	^	8	1
+	.	9	0
+	+	4	0
+	+	46	99
+	+	67	65
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	9	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	33	0
+	+	34	0
+	+	36	0
+	+	37	0
+	+	39	0
+	+	40	0
+	+	42	0
+	+	43	0
+	+	46	0
+	+	46	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	51	0
+	+	52	0
+	+	53	0
+	+	54	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	58	0
+	+	59	0
+	+	60	0
+	+	61	0
+	+	62	0
+	+	63	0
+	+	64	0
+	+	65	0
+	+	66	0
+	+	67	0
+	+	4	0
+	+	45	0
+	+	4	0
+	+	19	0
+	+	4	0
+	+	25	46
+	+	9	0
+
+> /etc/apache2/ports.conf
+	"	9	10
+	^	9	11
+	.	9	10
+	+	8	21
+	+	9	10
+
+> ~/latencytop/src/Makefile
+	"	42	0
+
+> ~/latencytop/push.sh
+	"	1	0
+
+> ~/mindmap/.git/COMMIT_EDITMSG
+	"	1	11
+	^	1	12
+	.	2	0
+	+	2	0
+
+> ~/.gitconfig
+	"	1	0
+
+> ~/Videos/ml_video
+	"	1	0
+
+> ~/ml_video
+	"	32	118
+	^	32	119
+	.	32	118
+	+	4	99
+	+	32	118
+
+> /etc/apache2/apache2.conf
+	"	209	10
+
+> /etc/apache2/httpd.conf
+	"	1	0
+
+> /etc/varnish/default.vcl
+	"	116	0
+
+> ~/global-la.zip
+	"	20	0
+	.	5	0
+	+	5	0
+
+> /etc/tomcat6/server.xml
+	"	46	49
+
+> ~/xunzhi100nihe.csv
+	"	42	0
+	^	1	16
+	.	17	0
+	+	1	15
+	+	2	0
+	+	10	0
+	+	12	0
+	+	16	0
+	+	19	0
+	+	19	0
+	+	19	0
+	+	22	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	35	0
+	+	36	0
+	+	36	0
+	+	37	0
+	+	37	0
+	+	41	0
+	+	42	0
+	+	42	0
+	+	42	0
+	+	19	0
+	+	26	0
+	+	31	0
+	+	33	0
+	+	34	0
+	+	36	0
+	+	42	0
+	+	2	0
+	+	3	0
+	+	6	0
+	+	9	0
+	+	10	0
+	+	17	0
+	+	20	0
+	+	23	0
+	+	26	0
+	+	29	0
+	+	30	0
+	+	32	0
+	+	34	0
+	+	37	0
+	+	40	0
+	+	41	0
+	+	43	0
+	+	11	0
+	+	17	0
+
+> ~/opennlp/NOTICE
+	"	5	0
+
+> ~/fwap22new3class.csv
+	"	275	0
+	.	4	0
+	+	4	0
+
+> ~/fwap22new2class.csv
+	"	275	0
+	.	4	0
+	+	3	0
+	+	4	0
+
+> ~/chaxun.new.csv
+	"	4	0
+	^	1	19
+	.	2	0
+	+	1	0
+	+	3	0
+	+	4	0
+	+	2	0
+
+> ~/fwap22new.csv
+	"	276	0
+	.	31	0
+	+	1	0
+	+	31	0
+
+> ~/fwap22.csv
+	"	1	0
+
+> ~/fwap.csv
+	"	292	0
+	^	246	30
+	.	8	0
+	+	1	0
+	+	2	0
+	+	3	0
+	+	81	0
+	+	8	22
+	+	9	21
+	+	13	21
+	+	16	24
+	+	35	29
+	+	36	28
+	+	37	27
+	+	40	19
+	+	43	26
+	+	44	25
+	+	45	22
+	+	46	22
+	+	49	20
+	+	57	19
+	+	58	21
+	+	60	32
+	+	61	30
+	+	64	23
+	+	73	22
+	+	78	22
+	+	79	21
+	+	119	27
+	+	120	26
+	+	121	24
+	+	122	30
+	+	123	28
+	+	124	30
+	+	127	23
+	+	133	24
+	+	142	20
+	+	144	27
+	+	145	26
+	+	154	25
+	+	159	22
+	+	166	21
+	+	180	21
+	+	193	20
+	+	195	0
+	+	198	21
+	+	212	28
+	+	215	24
+	+	216	27
+	+	217	25
+	+	222	21
+	+	223	21
+	+	231	19
+	+	232	17
+	+	234	26
+	+	235	26
+	+	239	18
+	+	240	18
+	+	241	18
+	+	216	0
+	+	218	0
+	+	246	29
+	+	251	29
+	+	252	29
+	+	253	29
+	+	263	21
+	+	264	20
+	+	265	21
+	+	266	27
+	+	267	26
+	+	268	26
+	+	275	22
+	+	276	21
+	+	277	21
+	+	2	0
+	+	3	0
+	+	81	0
+	+	8	0
+
+> ~/chaxun.clean.csv
+	"	4	0
+	.	231	34
+	+	67	22
+	+	68	0
+	+	83	28
+	+	80	0
+	+	87	29
+	+	103	0
+	+	104	0
+	+	105	0
+	+	108	0
+	+	116	0
+	+	118	0
+	+	125	0
+	+	127	0
+	+	135	0
+	+	144	0
+	+	146	0
+	+	154	0
+	+	162	0
+	+	162	0
+	+	164	0
+	+	166	0
+	+	167	0
+	+	168	0
+	+	170	0
+	+	185	0
+	+	186	0
+	+	189	0
+	+	195	28
+	+	200	0
+	+	202	0
+	+	204	0
+	+	207	0
+	+	218	0
+	+	220	0
+	+	226	0
+	+	231	34
+
+> ~/chaxun.csv
+	"	67	22
+	.	1	0
+	+	1	0
+
+> ~/chaxun3.csv
+	"	289	14
+	^	7	16
+	.	277	12
+	+	1	0
+	+	2	0
+	+	4	0
+	+	3	0
+	+	7	15
+	+	11	12
+	+	12	14
+	+	18	13
+	+	29	15
+	+	38	15
+	+	39	15
+	+	40	13
+	+	48	14
+	+	51	14
+	+	55	14
+	+	62	12
+	+	63	14
+	+	68	12
+	+	81	15
+	+	86	12
+	+	87	13
+	+	93	14
+	+	97	12
+	+	105	13
+	+	106	12
+	+	108	13
+	+	109	13
+	+	111	13
+	+	115	13
+	+	124	13
+	+	127	14
+	+	135	13
+	+	136	13
+	+	139	14
+	+	148	12
+	+	149	11
+	+	150	10
+	+	151	14
+	+	161	14
+	+	162	12
+	+	165	15
+	+	174	14
+	+	183	13
+	+	184	13
+	+	185	13
+	+	186	13
+	+	187	13
+	+	188	11
+	+	191	11
+	+	192	12
+	+	195	13
+	+	197	13
+	+	198	13
+	+	200	12
+	+	203	12
+	+	219	14
+	+	221	13
+	+	225	11
+	+	226	12
+	+	227	12
+	+	228	14
+	+	229	14
+	+	230	13
+	+	242	15
+	+	245	13
+	+	247	11
+	+	248	10
+	+	249	14
+	+	254	13
+	+	266	9
+	+	269	12
+	+	275	13
+	+	276	11
+	+	277	12
+
+> ~/chaxun2.csv
+	"	1	67
+	.	1	0
+	+	1	0
+
+> ~/fwap2.csv
+	"	43	0
+	^	43	0
+	.	42	19
+	+	21	16
+	+	42	19
+
+> ~/fwap
+	"	1	0
+
+> ~/xunzhi.txt
+	"	1	0
+	^	1	17
+	.	1	16
+	+	8	0
+	+	11	0
+	+	1	0
+	+	3	0
+	+	81	0
+	+	8	16
+	+	9	14
+	+	13	14
+	+	16	14
+	+	35	13
+	+	36	12
+	+	37	11
+	+	40	12
+	+	43	13
+	+	45	12
+	+	46	12
+	+	49	13
+	+	57	12
+	+	58	14
+	+	60	13
+	+	61	11
+	+	64	14
+	+	73	12
+	+	78	15
+	+	79	14
+	+	119	14
+	+	120	13
+	+	121	11
+	+	122	13
+	+	123	11
+	+	124	13
+	+	127	14
+	+	133	14
+	+	144	14
+	+	145	13
+	+	154	15
+	+	159	15
+	+	166	12
+	+	179	0
+	+	180	14
+	+	193	13
+	+	194	0
+	+	199	0
+	+	198	18
+	+	212	15
+	+	215	13
+	+	216	9
+	+	221	11
+	+	222	11
+	+	230	15
+	+	231	13
+	+	233	13
+	+	234	13
+	+	238	13
+	+	239	13
+	+	240	13
+	+	245	14
+	+	250	15
+	+	251	15
+	+	252	15
+	+	262	14
+	+	263	13
+	+	264	14
+	+	265	13
+	+	266	12
+	+	267	12
+	+	274	15
+	+	275	14
+	+	277	0
+	+	276	14
+	+	217	0
+	+	198	15
+	+	1	16
+
+> ~/repo
+	"	1	0
+
+> ~/test.c
+	"	2	35
+	^	3	3
+	.	2	0
+	+	2	10
+	+	2	15
+	+	2	0
+	+	2	0
+
+> ~/bitcoin/doc/build-unix.txt
+	"	110	0
+
+> ~/bitcoin/bitcoin-0.3.21-linux.tar.gz
+	"	186	0
+	.	5	0
+	+	5	0
+
+> ~/bitcoin/README
+	"	11	0
+
+> ~/paradise/paradise_v1.0/README.txt
+	"	18	0
+
+> ~/paradise/README
+	"	1	35
+	^	1	36
+	.	1	35
+	+	1	35
+
+> ~/opennlp/__Tag_List__
+	"	1	0
+
+> ~/opennlp/[File List]
+	"	9	0
+	.	3	0
+	+	11	0
+	+	3	0
+	t	5	0
+
+> ~/opennlp/KEYS
+	"	12	0
+
+> ~/opennlp/LICENSE
+	"	1	0
+
+> ~/opennlp/opennlp-distr/pom.xml
+	"	1	0
+
+> ~/opennlp/opennlp-distr/README
+	"	1	0
+
+> ~/.aMule/Incoming/name
+	"	1	0
+
+> ~/redis/src/ae.h
+	"	117	0
+
+> ~/redis/src/ae.c
+	"	41	14
+
+> ~/redis/src/[BufExplorer]
+	"	5	0
+	.	1	0
+	+	7	0
+	+	1	0
+
+> ~/redis/src/zmalloc.h
+	"	47	0
+
+> ~/redis/src/config.h
+	"	15	16
+
+> ~/zeromq2/README
+	"	39	0
+
+> ~/indexeddb/IndexedDatabasePlugin.h
+	"	35	0
+
+> ~/indexeddb/__Tag_List__
+	"	160	4
+	.	161	0
+	+	250	0
+	+	250	0
+	+	250	0
+	+	250	0
+	+	250	0
+	+	250	0
+	+	250	0
+	+	250	0
+	+	250	0
+	+	161	0
+	+	161	0
+	+	161	0
+	+	161	0
+	+	161	0
+
+> ~/indexeddb/[File List]
+	"	9	0
+	.	3	0
+	+	42	0
+	+	42	0
+	+	23	0
+	+	3	0
+	t	25	0
+
+> ~/indexeddb/IndexedDatabasePlugin.cpp
+	"	58	0
+
+> ~/indexeddb/IndexedDatabasePluginAPI.cpp
+	"	1	9
+
+> ~/indexeddb/IndexedDatabasePluginAPI.h
+	"	11	0

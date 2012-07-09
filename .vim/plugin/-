@@ -1,0 +1,2 @@
+Put	/home/eim/.vim/plugin/tetris.vim	/^fu! s:Put(l,c,pos,m)$/
+exists	/home/eim/.vim/plugin/tetris.vim	/^ if !exists('s:CNT')$/
