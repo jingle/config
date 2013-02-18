@@ -26,7 +26,7 @@ endif
 set autoindent
 set encoding=utf-8
 set expandtab
-set fileencodings=gbk,utf-8,ucs-bom,ucs-2,latin1
+set fileencodings=utf-8,gbk,ucs-bom,ucs-2,latin1
 set foldcolumn=1
 set foldmethod=marker
 set hlsearch
@@ -143,3 +143,13 @@ function MyDiff()
 endfunction
 
 " }}}
+
+
+" Pathogen load
+filetype off
+
+call pathogen#infect()
+call pathogen#helptags()
+
+filetype plugin indent on
+syntax on
